@@ -1,0 +1,1 @@
+{"version":3,"file":"styles.css","mappings":";;;AAEA;EACE;AADF;;AAIA;EACE,oBAPM;AAMR;;AAIA;EACE;AADF,C","sources":["webpack://acu/./src/style.scss"],"sourcesContent":["$color: deeppink;\n\nbody {\n  color: black;\n}\n\np {\n  background: $color;\n}\n\ndiv {\n  font-size: 1.2rem;\n}"],"names":[],"sourceRoot":""}
